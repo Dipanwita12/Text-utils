@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Text-utils/static/css/main.e6c13ad2.css",
+    "main.js": "/Text-utils/static/js/main.fb799a2b.js",
+    "index.html": "/Text-utils/index.html",
+    "main.e6c13ad2.css.map": "/Text-utils/static/css/main.e6c13ad2.css.map",
+    "main.fb799a2b.js.map": "/Text-utils/static/js/main.fb799a2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.fb799a2b.js"
+  ]
+}
